@@ -1,0 +1,73 @@
+p {
+	color: rgb(2, 2, 2);
+	font-size: 15px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	
+}
+p1 {color: rgb(2, 2, 2);
+	font-size: 40px;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+strong {
+	font-size: 30px;
+	color: rgb(226, 43, 86);
+	font-family: cursive;
+}
+
+img {
+	border-radius: 20%;
+	
+}
+
+body {
+	background-color: rgba(250, 229, 204, 0.355);
+	padding: 0 50px;
+	text-indent: 5%;
+}
+
+h1 {
+	text-align: center;
+	font-size: 60px;
+	color: rgb(226, 43, 86);
+	font-family: sans-serif;
+	font-style: italic;
+
+}
+h2{
+	text-align: center;
+	font-size: 50px;
+	color: rgb(99, 13, 220);
+	font-family: sans-serif;
+	font-style: italic;
+
+}
+h3{
+	text-align: center;
+	font-size: 50px;
+	color: rgb(220, 13, 217);
+	font-family: sans-serif;
+	font-style: italic;
+
+}
+h4{
+	text-align: center;
+	font-size: 50px;
+	color: rgb(51, 220, 13);
+	font-family: sans-serif;
+	font-style: italic;
+
+}
+li {
+	text-align: center;
+	font-size: 30px;
+	color: rgb(0, 0, 0);
+	font-family: sans-serif;
+	font-style: italic;
+
+}
+a {
+	font-size: 30px;
+	color: rgb(194, 39, 39);
+
+}
